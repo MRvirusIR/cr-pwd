@@ -2,7 +2,7 @@
 
 ### `Run password.exe`
 
-Generate one password with the given options. Returns a string.
+Generate one password with the given options. Returns a Strong PWD.
 
 ### Available options
 
